@@ -1,6 +1,5 @@
 # activity1
 
-
 This is my First Changes
 
 Mark Francis G. Lampit
